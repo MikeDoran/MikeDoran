@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React because it's marketable as hell
 - 💞️ I’m looking to collaborate on anything, just email me.
 - 📫 How to reach me:
-        email - mdoran@oswego.edu
-        discord - Moyk#5316
+        <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email - mdoran@oswego.edu
+        <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discord - Moyk#5316
 
 <!---
 MikeDoran/MikeDoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
