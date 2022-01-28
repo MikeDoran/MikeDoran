@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MikeDoran
-- 👀 I’m interested in Cellular Automata, and anything involving a strange language or application
-- 🌱 I’m currently learning React because it's marketable as hell
-- 💞️ I’m looking to collaborate on anything, just email me.
-- 📫 How to reach me:
+- 👉👉 Hi, I’m @MikeDoran
+- Cellular automata and well formatted code are why I wake up in the morning
+- How to reach me:
         <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email - mdoran@oswego.edu
         <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discord - Moyk#5316
 
